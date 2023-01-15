@@ -104,8 +104,7 @@
       "flags": {}
     }
   ],
-  "manifest": "https://github.com/TheLastScrub/delta-green-foundry-vtt-system-unofficial/raw/master/system.json",
-  "download": "https://github.com/TheLastScrub/delta-green-foundry-vtt-system-unofficial/archive/v1.1.0.zip",
+  "manifest": "https://github.com/Vinxito/delta-green-pulp-system/raw/master/system.json",
   "gridDistance": 1,
   "gridUnits": "m",
   "primaryTokenAttribute": "health",
