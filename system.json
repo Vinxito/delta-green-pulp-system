@@ -105,6 +105,7 @@
     }
   ],
   "manifest": "https://github.com/Vinxito/delta-green-pulp-system/raw/master/system.json",
+  "download": "https://github.com/Vinxito/delta-green-pulp-system/archive/0.0.1.zip",
   "gridDistance": 1,
   "gridUnits": "m",
   "primaryTokenAttribute": "health",
